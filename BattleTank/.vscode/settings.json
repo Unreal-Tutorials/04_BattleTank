@@ -1,0 +1,8 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"/Users/Dawie/Documents/repos/Unreal/04_BattleTank/BattleTank/.vscode": true,
+		"/Users/Dawie/Documents/repos/Unreal/04_BattleTank/BattleTank/Content": true,
+		"/Users/Dawie/Documents/repos/Unreal/04_BattleTank/BattleTank/Intermediate": true
+	}
+}
